@@ -1,0 +1,6 @@
+---
+title: "An Ax to Grind: A Practical Ax Manual"
+author: Bernie Weisgerber
+language: en-US
+date: 1999
+...
